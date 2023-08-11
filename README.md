@@ -1,1 +1,1 @@
-echo "# react-course"
+# react course
